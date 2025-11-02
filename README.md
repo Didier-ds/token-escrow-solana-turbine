@@ -188,6 +188,8 @@ anchor test --provider.cluster devnet
 ### Successful Escrow Initialization
 https://explorer.solana.com/tx/2ukXyyQNPRW5pUig8Dtsks7drDa4G2DjnoEuULqavq2NcW9muS5PBWDxDLdcYWWpnh1wKgsaxiS3vxXEtbXX8LRn?cluster=devnet
 
+![Transaction Screenshot](./screenshots/transaction.png)
+
 ## Dependencies
 
 ### Rust
